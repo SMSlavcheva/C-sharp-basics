@@ -1,0 +1,13 @@
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\bin\Release\netcoreapp3.1\RootsOfQuadraticEquation.exe
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\bin\Release\netcoreapp3.1\RootsOfQuadraticEquation.deps.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\bin\Release\netcoreapp3.1\RootsOfQuadraticEquation.runtimeconfig.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\bin\Release\netcoreapp3.1\RootsOfQuadraticEquation.runtimeconfig.dev.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\bin\Release\netcoreapp3.1\RootsOfQuadraticEquation.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\bin\Release\netcoreapp3.1\RootsOfQuadraticEquation.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\obj\Release\netcoreapp3.1\RootsOfQuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\obj\Release\netcoreapp3.1\RootsOfQuadraticEquation.AssemblyInfo.cs
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\obj\Release\netcoreapp3.1\RootsOfQuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\obj\Release\netcoreapp3.1\RootsOfQuadraticEquation.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\obj\Release\netcoreapp3.1\RootsOfQuadraticEquation.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\obj\Release\netcoreapp3.1\RootsOfQuadraticEquation.genruntimeconfig.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\RootsOfQuadraticEquation\obj\Release\netcoreapp3.1\RootsOfQuadraticEquation.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\bin\Debug\netcoreapp3.1\Homework_SumNumbers.exe
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\bin\Debug\netcoreapp3.1\Homework_SumNumbers.deps.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\bin\Debug\netcoreapp3.1\Homework_SumNumbers.runtimeconfig.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\bin\Debug\netcoreapp3.1\Homework_SumNumbers.runtimeconfig.dev.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\bin\Debug\netcoreapp3.1\Homework_SumNumbers.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\bin\Debug\netcoreapp3.1\Homework_SumNumbers.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\obj\Debug\netcoreapp3.1\Homework_SumNumbers.csprojAssemblyReference.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\obj\Debug\netcoreapp3.1\Homework_SumNumbers.AssemblyInfoInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\obj\Debug\netcoreapp3.1\Homework_SumNumbers.AssemblyInfo.cs
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\obj\Debug\netcoreapp3.1\Homework_SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\obj\Debug\netcoreapp3.1\Homework_SumNumbers.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\obj\Debug\netcoreapp3.1\Homework_SumNumbers.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_SumNumbers\obj\Debug\netcoreapp3.1\Homework_SumNumbers.genruntimeconfig.cache

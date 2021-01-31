@@ -1,0 +1,13 @@
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.exe
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.deps.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.dev.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csprojAssemblyReference.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfo.cs
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.genruntimeconfig.cache

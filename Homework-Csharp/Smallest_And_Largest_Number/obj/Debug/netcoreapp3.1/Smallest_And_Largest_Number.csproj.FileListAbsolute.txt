@@ -1,0 +1,13 @@
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\bin\Debug\netcoreapp3.1\Smallest_And_Largest_Number.exe
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\bin\Debug\netcoreapp3.1\Smallest_And_Largest_Number.deps.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\bin\Debug\netcoreapp3.1\Smallest_And_Largest_Number.runtimeconfig.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\bin\Debug\netcoreapp3.1\Smallest_And_Largest_Number.runtimeconfig.dev.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\bin\Debug\netcoreapp3.1\Smallest_And_Largest_Number.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\bin\Debug\netcoreapp3.1\Smallest_And_Largest_Number.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\obj\Debug\netcoreapp3.1\Smallest_And_Largest_Number.csprojAssemblyReference.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\obj\Debug\netcoreapp3.1\Smallest_And_Largest_Number.AssemblyInfoInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\obj\Debug\netcoreapp3.1\Smallest_And_Largest_Number.AssemblyInfo.cs
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\obj\Debug\netcoreapp3.1\Smallest_And_Largest_Number.csproj.CoreCompileInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\obj\Debug\netcoreapp3.1\Smallest_And_Largest_Number.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\obj\Debug\netcoreapp3.1\Smallest_And_Largest_Number.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Smallest_And_Largest_Number\obj\Debug\netcoreapp3.1\Smallest_And_Largest_Number.genruntimeconfig.cache

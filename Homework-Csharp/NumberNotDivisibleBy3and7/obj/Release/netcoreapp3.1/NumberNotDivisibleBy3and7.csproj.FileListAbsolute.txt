@@ -1,0 +1,13 @@
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\bin\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.exe
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\bin\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.deps.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\bin\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.runtimeconfig.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\bin\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.runtimeconfig.dev.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\bin\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\bin\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\obj\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.csprojAssemblyReference.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\obj\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.AssemblyInfoInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\obj\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.AssemblyInfo.cs
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\obj\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.csproj.CoreCompileInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\obj\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\obj\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\NumberNotDivisibleBy3and7\obj\Release\netcoreapp3.1\NumberNotDivisibleBy3and7.genruntimeconfig.cache

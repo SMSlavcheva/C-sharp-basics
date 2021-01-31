@@ -1,0 +1,12 @@
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\bin\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.exe
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\bin\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.deps.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\bin\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.runtimeconfig.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\bin\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.runtimeconfig.dev.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\bin\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\bin\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\obj\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.AssemblyInfoInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\obj\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.AssemblyInfo.cs
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\obj\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.csproj.CoreCompileInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\obj\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\obj\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\MostFrequentOccuranceElement\obj\Release\netcoreapp3.1\Homework_MostFrequentOccuranceElement.genruntimeconfig.cache

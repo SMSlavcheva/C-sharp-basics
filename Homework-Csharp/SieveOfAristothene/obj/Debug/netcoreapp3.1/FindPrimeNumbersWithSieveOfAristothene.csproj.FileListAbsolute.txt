@@ -1,0 +1,13 @@
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\bin\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.exe
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\bin\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.deps.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\bin\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.runtimeconfig.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\bin\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.runtimeconfig.dev.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\bin\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\bin\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\obj\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.AssemblyInfoInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\obj\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.AssemblyInfo.cs
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\obj\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.csproj.CoreCompileInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\obj\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\obj\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\obj\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.genruntimeconfig.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\SieveOfAristothene\obj\Debug\netcoreapp3.1\FindPrimeNumbersWithSieveOfAristothene.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\bin\Release\netcoreapp3.1\Homework_CompanyData.exe
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\bin\Release\netcoreapp3.1\Homework_CompanyData.deps.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\bin\Release\netcoreapp3.1\Homework_CompanyData.runtimeconfig.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\bin\Release\netcoreapp3.1\Homework_CompanyData.runtimeconfig.dev.json
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\bin\Release\netcoreapp3.1\Homework_CompanyData.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\bin\Release\netcoreapp3.1\Homework_CompanyData.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\obj\Release\netcoreapp3.1\Homework_CompanyData.AssemblyInfoInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\obj\Release\netcoreapp3.1\Homework_CompanyData.AssemblyInfo.cs
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\obj\Release\netcoreapp3.1\Homework_CompanyData.csproj.CoreCompileInputs.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\obj\Release\netcoreapp3.1\Homework_CompanyData.dll
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\obj\Release\netcoreapp3.1\Homework_CompanyData.pdb
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\obj\Release\netcoreapp3.1\Homework_CompanyData.genruntimeconfig.cache
+C:\Users\sslavcheva\source\repos\Homework-Csharp\Homework_CompanyData\obj\Release\netcoreapp3.1\Homework_CompanyData.csprojAssemblyReference.cache
